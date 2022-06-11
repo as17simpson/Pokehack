@@ -1,7 +1,7 @@
 _PalletCaveBattleText1::
         text "I'm a fucking"
         line "big boy lad"
-        cont "lets gooooooo"
+        cont "lets gooooooo!!"
         done
 
 _PalletCaveEndBattleText1::
