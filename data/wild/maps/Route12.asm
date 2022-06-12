@@ -1,10 +1,10 @@
 Route12WildMons:
 	def_grass_wildmons 15 ; encounter rate
 IF DEF(_RED)
-	db 24, ODDISH
-	db 25, PIDGEY
-	db 23, PIDGEY
-	db 24, VENONAT
+	db 24, ELECTABUZZ
+	db 25, MR.MIME
+	db 23, ELECTABUZZ
+	db 24, ELECTABUZZ
 	db 22, ODDISH
 	db 26, VENONAT
 	db 26, ODDISH

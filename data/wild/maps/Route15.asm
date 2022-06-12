@@ -1,14 +1,14 @@
 Route15WildMons:
 	def_grass_wildmons 15 ; encounter rate
 IF DEF(_RED)
-	db 24, ODDISH
-	db 26, DITTO
-	db 23, PIDGEY
+	db 24, PINSIR
+	db 26, PINSIR
+	db 23, MEOWTH
 	db 26, VENONAT
-	db 22, ODDISH
+	db 22, VULPIX
 	db 28, VENONAT
 	db 26, ODDISH
-	db 30, GLOOM
+	db 30, MEOWTH
 ENDC
 IF DEF(_BLUE)
 	db 24, BELLSPROUT

@@ -1,11 +1,11 @@
 Route24WildMons:
 	def_grass_wildmons 25 ; encounter rate
 IF DEF(_RED)
-	db  7, WEEDLE
-	db  8, KAKUNA
+	db  7, SQUIRTLE
+	db  8, SQUIRTLE
 	db 12, PIDGEY
-	db 12, ODDISH
-	db 13, ODDISH
+	db 12, ABRA
+	db 13, SQUIRTLE
 	db 10, ABRA
 	db 14, ODDISH
 ENDC

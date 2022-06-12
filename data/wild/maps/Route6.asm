@@ -1,12 +1,12 @@
 Route6WildMons:
 	def_grass_wildmons 15 ; encounter rate
 IF DEF(_RED)
-	db 13, ODDISH
-	db 13, PIDGEY
-	db 15, PIDGEY
+	db 16, CHANSEY
+	db 13, EEVEE
+	db 15, CHANSEY
 	db 10, MANKEY
 	db 12, MANKEY
-	db 15, ODDISH
+	db 15, EEVEE
 	db 16, ODDISH
 	db 16, PIDGEY
 	db 14, MANKEY

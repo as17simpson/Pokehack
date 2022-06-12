@@ -3,7 +3,7 @@ Route2WildMons:
 	db  3, RATTATA
 	db  3, PIDGEY
 	db  4, PIDGEY
-	db  4, RATTATA
+	db  4, DROWZEE
 	db  5, PIDGEY
 IF DEF(_RED)
 	db  3, WEEDLE

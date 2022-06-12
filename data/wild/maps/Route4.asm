@@ -2,7 +2,7 @@ Route4WildMons:
 	def_grass_wildmons 20 ; encounter rate
 	db 10, RATTATA
 	db 10, SPEAROW
-	db  8, RATTATA
+	db 14, SCYTHER
 IF DEF(_RED)
 	db  6, EKANS
 	db  8, SPEAROW
