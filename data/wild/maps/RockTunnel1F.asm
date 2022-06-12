@@ -5,11 +5,11 @@ RockTunnel1FWildMons:
 	db 17, GEODUDE
 	db 15, MACHOP
 	db 16, GEODUDE
-	db 18, RYHORN
+	db 18, MAGMAR
 	db 15, ZUBAT
 	db 17, MACHOP
-	db 13, MR.MIME
-	db 15, RYHORN
+	db 13, MACHOP
+	db 15, MAGMAR
 	end_grass_wildmons
 
 	def_water_wildmons 0 ; encounter rate

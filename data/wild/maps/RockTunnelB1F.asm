@@ -1,8 +1,8 @@
 RockTunnelB1FWildMons:
 	def_grass_wildmons 15 ; encounter rate
-	db 16, RYHORN
+	db 16, MAGMAR
+	db 17, ONIX
 	db 17, JYNX
-	db 17, RYHORN
 	db 15, MACHOP
 	db 16, JYNX
 	db 18, ZUBAT
