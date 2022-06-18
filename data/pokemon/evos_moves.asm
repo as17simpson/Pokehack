@@ -1052,9 +1052,10 @@ MissingNo51EvosMoves:
 
 VulpixEvosMoves:
 ; Evolutions
-	db EV_ITEM, FIRE_STONE, 1, NINETALES
+	db EV_LEVEL, 32, NINETALES
 	db 0
 ; Learnset
+	db 10, EMBER
 	db 16, QUICK_ATTACK
 	db 21, ROAR
 	db 28, CONFUSE_RAY
@@ -1066,6 +1067,12 @@ NinetalesEvosMoves:
 ; Evolutions
 	db 0
 ; Learnset
+	db 10, EMBER
+	db 16, QUICK_ATTACK
+	db 21, ROAR
+	db 28, CONFUSE_RAY
+	db 37, FLAMETHROWER
+	db 45, FIRE_SPIN
 	db 0
 
 PikachuEvosMoves:
@@ -1347,7 +1354,7 @@ ParasEvosMoves:
 
 PoliwhirlEvosMoves:
 ; Evolutions
-	db EV_ITEM, WATER_STONE, 1, POLIWRATH
+	db EV_LEVEL, 38, POLIWRATH
 	db 0
 ; Learnset
 	db 16, HYPNOSIS
@@ -1364,6 +1371,10 @@ PoliwrathEvosMoves:
 ; Learnset
 	db 16, HYPNOSIS
 	db 19, WATER_GUN
+	db 26, DOUBLESLAP
+	db 33, BODY_SLAM
+	db 43, AMNESIA
+	db 52, HYDRO_PUMP
 	db 0
 
 WeedleEvosMoves:
@@ -2114,7 +2125,7 @@ BellsproutEvosMoves:
 
 WeepinbellEvosMoves:
 ; Evolutions
-	db EV_ITEM, LEAF_STONE, 1, VICTREEBEL
+	db EV_LEVEL, 38, VICTREEBEL
 	db 0
 ; Learnset
 	db 13, WRAP
@@ -2122,7 +2133,7 @@ WeepinbellEvosMoves:
 	db 18, SLEEP_POWDER
 	db 23, STUN_SPORE
 	db 29, ACID
-	db 38, RAZOR_LEAF
+	db 36, RAZOR_LEAF
 	db 49, SLAM
 	db 0
 
@@ -2133,4 +2144,8 @@ VictreebelEvosMoves:
 	db 13, WRAP
 	db 15, POISONPOWDER
 	db 18, SLEEP_POWDER
+	db 23, STUN_SPORE
+	db 29, ACID
+	db 39, RAZOR_LEAF
+	db 52, SLAM
 	db 0
