@@ -1,13 +1,13 @@
 RockTunnel1FWildMons:
 	def_grass_wildmons 15 ; encounter rate
-	db 16, MAGMAR
-	db 17, MAGMAR
+	db 24, MAGMAR
+	db 22, MAGMAR
 	db 17, GEODUDE
 	db 15, MACHOP
 	db 16, GEODUDE
 	db 18, MAGMAR
-	db 15, ZUBAT
-	db 17, MACHOP
+	db 20, RHYHORN
+	db 23, RHYHORN
 	db 13, MACHOP
 	db 15, MAGMAR
 	end_grass_wildmons
